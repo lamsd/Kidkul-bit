@@ -7,12 +7,11 @@ MIT
 
 ## Supported targets
 
-* for PXT/startbit_lobot
+* for PXT/Kidkul-bit
 
 (The metadata above is needed for package search.)
 
 ```package
-startbit=github:lamsd/startbit_lobot
-
+startbit=github:lamsd/Kidkul-bit
 ```
 
